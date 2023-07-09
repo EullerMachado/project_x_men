@@ -1,0 +1,37 @@
+@media (max-width:  1120px) {
+    .header .logo{
+        max-width: 190px;
+    }
+
+    .character_selection{
+        flex-direction: column-reverse;
+        max-width: 430px;
+        margin: 0 auto;
+    }
+
+    .characters{
+        margin-top: 30px;
+    }
+
+    .title{
+        font-size: 15px;
+    }
+
+    .character_list{
+        gap: 8px;
+    }
+
+    .character_selection .characters img{
+        width: 80px;
+    }
+
+    .selected_characters .augmented_character{
+        width: 350px;
+        height: 350px;
+    }
+
+    .character_description{
+        width: 295px;
+    }
+
+}

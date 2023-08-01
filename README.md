@@ -13,7 +13,7 @@
 - [Technologies](#technologies)
 - [Screenshots](#Screenshots)
 - [Illustrations](#illustrations)
-* [Setup](#setup)
+- [Setup](#setup)
 - [Appreciations](#appreciations)
 
 ## General-info

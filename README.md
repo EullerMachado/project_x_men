@@ -10,7 +10,12 @@
 ## Table of contents
 
 [Gerenal Informations](#general-info)
-  
+[Technologies](#technologies)
+[Screenshots](#Screenshots)
+[Illustrations](#illustrations)
+[Setup](#setup)
+[Appreciations](#appreciations)
+
 ## General-info
 
 In this repository, I enthusiastically present my collaborative work on the "Dev em Dobro" channel project. Here, I had the opportunity to enhance my web development skills using HTML, CSS, and Javascript, while diving into the fascinating X-Men universe.
@@ -41,6 +46,6 @@ In summary, this repository represents a journey of learning and creativity, whe
 To run this project, please click here :)
 
 ➜ [https://eullermachado.github.io/project_x_men/](https://eullermachado.github.io/project_x_men/)
-## appreciations
+## Appreciations
 
 I genuinely appreciate you taking the time to visit the project repository that I created. As the creator of this project, it is truly rewarding to know that you have found the information and resources presented to be helpful and engaging.

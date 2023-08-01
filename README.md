@@ -9,12 +9,12 @@
 
 ## Table of contents
 
-[Gerenal Informations](#general-info)
-[Technologies](#technologies)
-[Screenshots](#Screenshots)
-[Illustrations](#illustrations)
-[Setup](#setup)
-[Appreciations](#appreciations)
+- [Gerenal Informations](#general-info)
+- [Technologies](#technologies)
+- [Screenshots](#Screenshots)
+- [Illustrations](#illustrations)
+* [Setup](#setup)
+- [Appreciations](#appreciations)
 
 ## General-info
 
